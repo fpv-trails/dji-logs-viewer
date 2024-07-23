@@ -5,7 +5,7 @@ import Map from './Map';
 function App() {
   return (
     <div>
-      <h1>My Mapbox App</h1>
+      <h1>DJI Log Viewer</h1>
       <Map />
     </div>
   );

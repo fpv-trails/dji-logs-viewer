@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import ReactMapGL from 'react-map-gl';
 
-const MAPBOX_TOKEN = process.env.MAPBOX_API_KEY; // Replace with your actual token
+const MAPBOX_TOKEN = "Your_API_KEY"; // Replace with your actual token
 
 function Map() {
   const [viewport, setViewport] = useState({
