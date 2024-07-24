@@ -1,0 +1,7 @@
+/* index.css or your main stylesheet */
+.button-overlay { 
+    position: absolute; 
+    top: 50px;          
+    left: 50px;         
+    z-index: 1;         
+  }
