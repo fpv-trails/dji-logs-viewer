@@ -7,6 +7,7 @@ Add your Mapbox api key to App.js
 ```
 npm i
 npm start
+```
 
 # Read log locally
 -Click on Read DJI GeoJSON
