@@ -59,7 +59,7 @@ function App() {
       </div>
       <Map
         {...viewport} // spread the viewport to the Map component
-        mapboxAccessToken="pk.eyJ1Ijoid2FsdGVyLW1vcmF3YSIsImEiOiJjanBwd3kxajMwdDdoM3dzNGhpcXBja3JmIn0.w0EN49Ij81yTIB8scT_1cg"
+        mapboxAccessToken="YOUR_MAPBOX_API_KEY"
         initialViewState={{
           longitude: -122.4,
           latitude: 37.8,
