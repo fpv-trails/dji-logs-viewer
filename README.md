@@ -17,3 +17,8 @@ npm start
 . ./dji-log --api-key {your api key} DJIFlightRecord.txt > frames.json ----geojson track.json
 ```
 
+# Map should zoom to location and display track
+
+# To Do
+- Show timeline (Play/Pause button)
+- Lots of other features
